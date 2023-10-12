@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "309747420413",
+    "firebase_url": "https://proyecto1-50357-default-rtdb.firebaseio.com",
+    "project_id": "proyecto1-50357",
+    "storage_bucket": "proyecto1-50357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309747420413:android:922ff988cc6f9580ed4294",
+        "android_client_info": {
+          "package_name": "proyecto.vero.proyectobasedatos1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoe6wtHkf2EWiF9bszWYR-RHltJ4DEoiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
